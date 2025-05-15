@@ -8,4 +8,5 @@
 ![key_we_arch drawio](https://github.com/user-attachments/assets/edda2a99-50b7-4201-a2f9-79dee9135c20)
 
 ## MSA ERD
-![Uploading 0508 KEYWE MSA 최종 (3).png…]()
+![0508 KEYWE MSA 최종 (3)](https://github.com/user-attachments/assets/9a88752b-bc0d-4c9c-b696-f9edac3261bb)
+
