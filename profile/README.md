@@ -1,4 +1,4 @@
-# DID 기반 병원 통합 모바일 출입증 관리 서비스
+# DID 기반 병원 통합 모바일 출입증 관리 서비스, KEYWE
 
 ## Inner Architecture
 ![keywe-inner](https://github.com/user-attachments/assets/01b11423-cfdd-4053-b1b7-139acb0e803d)
